@@ -1,6 +1,7 @@
 [package]
-name = "AutoUpdater"
-version = "0.1.0"
+name = "AutoInstaller"
+version = "0.1.2"
 edition = "2024"
 
 [dependencies]
+tinyfiledialogs = "3.9.1"

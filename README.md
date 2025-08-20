@@ -1,4 +1,4 @@
-# AutoUpdater
+# AutoInstaller
 
 A simple app that scans your `~/Downloads` folder for `.deb` package files and installs them automatically.
 
@@ -18,6 +18,5 @@ Currently supports only GNOME-based systems.
 
 ## Future Plans
 - Support for other desktop environments
-- User prompts for install confirmation
 - Adjustable timeout between scans (now 10 seconds)
 - Logging support
